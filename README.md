@@ -1,3 +1,3 @@
 # Calendar_Integration
 
-Submission for Calendar Integration using Djano and Google Outh-2
+Submission for Calendar Integration using Django and Google Oauth-2
